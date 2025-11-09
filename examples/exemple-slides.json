@@ -1,0 +1,82 @@
+{
+  "slide1": {
+    "title": "Question d'ouverture",
+    "text": "Dans la phrase 'Le wapa pousse près des criques', qui fait l'action de pousser ?",
+    "bg_prompt": "salle de classe CM1 en Guyane, tableau vert, lumière naturelle venant de grandes fenêtres, carte de la Guyane affichée au mur, ambiance lumineuse et aérée, vue large, espace pour texte au centre"
+  },
+  "slide2": {
+    "title": "Mise en recherche (binômes / tuteurs)",
+    "bullet_points": [
+      "Manipuler les bandes-phrases avec votre binôme",
+      "Isoler le mot ou groupe de mots qui fait l'action",
+      "Tester : si on change le temps du verbe, est-ce que ce mot change aussi ?",
+      "Discuter avec votre voisin : êtes-vous d'accord ?"
+    ],
+    "bg_prompt": "élèves de CM1 en binôme autour d'une table en bois, manipulant des étiquettes de papier, collaboration visible, lumière douce, environnement tropical visible par la fenêtre, fond légèrement flouté"
+  },
+  "slide3": {
+    "title": "Méthode du jour",
+    "steps": [
+      "Observer la phrase et repérer le verbe",
+      "Questionner : Qui fait l'action ? ou Qu'est-ce qui fait l'action ?",
+      "Vérifier en changeant le temps du verbe (le sujet change aussi)"
+    ],
+    "teacher_tip": "Rappel : on cherche QUI ou QUOI fait l'action du verbe",
+    "bg_prompt": "affiche méthodologique colorée sur mur de classe guyanaise, fond neutre beige clair, écriture claire et lisible, ambiance professionnelle et sereine, espace central dégagé"
+  },
+  "slide4": {
+    "title": "Confrontation collective",
+    "bullet_points": [
+      "Quel groupe de mots avez-vous trouvé comme sujet ?",
+      "Comment avez-vous fait pour le trouver ?",
+      "Quelqu'un a trouvé différemment ? Pourquoi ?",
+      "Comment peut-on être sûr que c'est bien le sujet ?"
+    ],
+    "bg_prompt": "tableau blanc avec phrases écrites en grand au feutre noir, main d'enseignant soulignant un mot avec un marqueur vert, classe floue en arrière-plan, lumière naturelle, atmosphère d'apprentissage"
+  },
+  "slide5": {
+    "title": "Bilan (trace collective)",
+    "text": "Le groupe sujet fait l'action du verbe. Pour le trouver, je pose la question 'Qui fait l'action ?' ou 'Qu'est-ce qui fait l'action ?'. Le sujet peut être un nom, un groupe nominal ou un pronom.",
+    "bg_prompt": "cahier d'écolier ouvert sur table en bois clair, écriture soignée visible, crayon posé à côté, gomme, fond flou aux tons chauds et naturels, lumière douce venant de la fenêtre"
+  },
+  "slide6": {
+    "title": "Rituels d'autonomie",
+    "checklist": [
+      "Tenue du cahier : date soulignée, titre encadré, saut de 2 lignes avant trace",
+      "Dictée : écouter → écrire → relire en vérifiant les accords → corriger au stylo vert",
+      "Problème : lire 2x → chercher les données → faire un schéma → calculer → vérifier la cohérence"
+    ],
+    "bg_prompt": "bureau d'écolier bien rangé vu du dessus, ardoise propre, cahier ouvert, trousse avec stylos colorés alignés, règle, lumière douce, tons neutres et professionnels, espace organisé"
+  },
+  "slide7": {
+    "title": "Activité différenciée par groupes",
+    "groups": [
+      {
+        "name": "Aïmara 🌺",
+        "task": "Phrases courtes (sujet = nom propre ou GN simple)",
+        "success_criteria": "5/5 sujets identifiés correctement"
+      },
+      {
+        "name": "Angélique 🌻",
+        "task": "Phrases moyennes (GN enrichis, pronoms)",
+        "success_criteria": "4/5 sujets + justification orale"
+      },
+      {
+        "name": "Sablier 🌿",
+        "task": "Phrases complexes (inversion, relatives, sujets longs)",
+        "success_criteria": "3/5 sujets + reformulation orale"
+      }
+    ],
+    "bg_prompt": "trois groupes d'élèves distincts, chacun à une table différente avec une étiquette colorée (fleur/arbre), élèves travaillant de manière concentrée, classe lumineuse en Guyane, ambiance collaborative, vue large"
+  },
+  "slide8": {
+    "title": "Feedback & suite",
+    "bullet_points": [
+      "Aujourd'hui, nous avons appris à identifier le groupe sujet dans une phrase",
+      "Nous savons poser la question 'Qui fait l'action ?' pour le trouver",
+      "Demain, nous travaillerons sur l'accord du verbe avec le sujet",
+      "Vendredi : phrase du jour (inventer une phrase sur la Guyane)"
+    ],
+    "bg_prompt": "soleil couchant à travers fenêtre de classe en Guyane, ciel orangé et rose, ambiance calme de fin de journée, tableau effacé en arrière-plan, teintes chaudes et apaisantes, silhouettes floues d'arbres tropicaux"
+  }
+}

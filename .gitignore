@@ -1,0 +1,31 @@
+# Fichiers de configuration personnels
+config.local.json
+secrets.json
+.env
+
+# Clés API (ne jamais commiter)
+**/api-keys.txt
+**/credentials.json
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Données de test privées
+test-data/private/
+
+# Notes personnelles
+NOTES.md
+TODO.md
