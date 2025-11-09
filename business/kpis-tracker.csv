@@ -1,0 +1,35 @@
+Date,Visiteurs_Landing_Page,Inscriptions_Beta,Taux_Conversion_%,Beta_Actifs,Taux_Activation_%,Clients_Payants,MRR_€,Churn_%,NPS_Score,CAC_€,Depenses_Marketing_€,Temps_Investi_h,Notes
+2024-11-09,0,0,0,0,0,0,0,0,0,0,0,0,Jour 1 - Création questionnaire
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Instructions:
+Remplir chaque jour les métriques principales
+Calculer les taux automatiquement dans Google Sheets
+Analyser les tendances chaque dimanche
+,,,,,,,,,,,,
+Définitions:
+Visiteurs_Landing_Page = Nombre de personnes qui visitent votre landing page (Google Analytics)
+Inscriptions_Beta = Nombre de personnes qui remplissent le formulaire d'inscription
+Taux_Conversion_% = (Inscriptions_Beta / Visiteurs_Landing_Page) × 100
+Beta_Actifs = Nombre de bêta-testeurs qui ont généré au moins 1 semaine
+Taux_Activation_% = (Beta_Actifs / Inscriptions_Beta) × 100
+Clients_Payants = Nombre de clients qui paient (abonnement actif)
+MRR_€ = Monthly Recurring Revenue = Revenus mensuels récurrents
+Churn_% = (Désabonnements du mois / Clients du mois précédent) × 100
+NPS_Score = Net Promoter Score = Note de satisfaction sur 10
+CAC_€ = Customer Acquisition Cost = Depenses_Marketing_€ / Nouveaux_Clients
+Depenses_Marketing_€ = Budget pub Facebook + Google Ads + autres
+Temps_Investi_h = Heures passées sur MOUTOUCHI (développement + marketing)
+Notes = Événements importants du jour (lancement, bug, partenariat)
+,,,,,,,,,,,,
+Objectifs 30 jours:
+Visiteurs_Landing_Page,500
+Inscriptions_Beta,100
+Taux_Conversion_%,20%
+Beta_Actifs,20
+Taux_Activation_%,60%
+Clients_Payants,5
+MRR_€,75€
+Churn_%,<5%
+NPS_Score,>8/10
+CAC_€,<30€
