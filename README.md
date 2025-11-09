@@ -14,6 +14,7 @@
 - [Vue d'ensemble](#-vue-densemble)
 - [Fonctionnalités](#-fonctionnalités)
 - [Architecture](#-architecture)
+- [🚀 Business & Commercialisation](#-business--commercialisation) ⭐ **NOUVEAU**
 - [Prérequis](#-prérequis)
 - [Installation rapide](#-installation-rapide)
 - [Configuration détaillée](#-configuration-détaillée)
@@ -24,6 +25,75 @@
 - [Support](#-support)
 - [Contribuer](#-contribuer)
 - [Licence](#-licence)
+
+---
+
+## 🚀 Business & Commercialisation
+
+**Vous voulez monétiser MOUTOUCHI ?** Tout est prêt dans le dossier `/business/`.
+
+### 📂 Commencez ici
+
+```
+📄 business/START-HERE.md
+```
+
+**Ce fichier vous donne** :
+- Vue d'ensemble complète du projet business
+- Plan d'action pour lancer AUJOURD'HUI (3 heures)
+- Roadmap 30 jours (de 0 à 5 clients payants)
+- Navigation claire dans tous les documents
+
+### 🎯 Ressources disponibles
+
+#### Validation marché
+- **Questionnaire** : `business/questionnaire-validation-marche.md` (19 questions prêtes)
+- **Plan 30 jours** : `business/plan-action-30-jours.md` (semaine par semaine)
+
+#### Outils pratiques
+- **Templates communication** : `business/templates-communication.md` (WhatsApp, emails, posts)
+- **Guide landing page** : `business/guide-landing-page.md` (Carrd.co en 30 min)
+- **Calendrier contenu** : `business/calendrier-contenu-30-jours.md` (quoi poster chaque jour)
+- **Tracker KPIs** : `business/kpis-tracker.csv` (métriques à suivre)
+
+#### Business strategy
+- **Offre commerciale** : `business/offre-commerciale.md` (tarifs, scripts vente, objections)
+- **Pitch deck** : `business/pitch-deck-outline.md` (12 slides investisseurs/rectorats)
+- **Checklist juridique** : `business/checklist-juridique.md` (conformité en 1h)
+
+### 💰 Potentiel de revenus
+
+| Période | Objectif clients | Revenus mensuels | Revenus annuels |
+|---------|------------------|------------------|-----------------|
+| Mois 1 | 5 | 75€ | - |
+| Mois 6 | 100 | 1 500€ | - |
+| An 1 | 200 | 3 000€ | 36 000€ |
+| An 2 | 500+ | 12 000€ | 210 000€ |
+
+**Marché cible** :
+- An 1 : DOM-TOM (3 000 enseignants)
+- An 2 : Métropole (350 000 enseignants)
+- An 3 : Afrique francophone (500 000 enseignants)
+
+### ⏱️ Lancement rapide
+
+**AUJOURD'HUI (3 heures)** :
+1. Créer questionnaire Google Forms (20 min)
+2. Envoyer à 10 collègues (10 min)
+3. Créer landing page Carrd.co (30 min)
+4. Faire vidéo démo Loom (30 min)
+
+**Détails** : `business/ACTIONS-IMMEDIATES.md`
+
+### 📊 Business model
+
+- **Gratuit** : 2 générations/mois (acquisition)
+- **Essentiel** : 15€/mois (cœur de cible)
+- **Pro** : 30€/mois (+ feedback élèves, multi-classes)
+- **B2B** : 100-400€/mois (écoles, réseaux)
+- **Académies** : Sur devis (rectorats)
+
+**Documentation complète** : `business/README-BUSINESS.md`
 
 ---
 
