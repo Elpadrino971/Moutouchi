@@ -95,6 +95,48 @@
 
 **Documentation complète** : `business/README-BUSINESS.md`
 
+### 🚀 Lancement Tactique (NOUVEAU)
+
+**Prêt pour commercialisation agressive ?** Ressources ultra-pratiques :
+
+#### Sprint 24h
+- **`business/LAUNCH-SPRINT-24H.md`** : Timeline minute-par-minute H-2h → H+24h
+  - Messages WhatsApp/Facebook/Instagram/LinkedIn/Twitter prêts
+  - Checkpoints temps réel (H+3h, H+6h, H+12h, H+24h)
+  - Cheat codes si ça stagne
+  - Décision GO/NO-GO (30+ réponses = lancement validé)
+
+#### Visuels professionnels
+- **`business/CANVA-TEMPLATES.md`** : 7 templates Canva prêts à créer en 30 min
+  - Instagram (posts carrés, stories, carrousels 10 slides)
+  - LinkedIn/Twitter/YouTube
+  - Specs complètes (polices, couleurs, tailles)
+  - Légendes copy-paste avec hashtags
+
+#### Métriques temps réel
+- **`business/METRICS-DASHBOARD.md`** : Dashboard Google Sheets automatisé
+  - Formules auto (conversion%, churn%, CAC, LTV, LTV/CAC ratio)
+  - 5 graphiques (trafic, funnel, MRR, NPS, payback)
+  - Routine quotidienne 10 min
+  - Apps Script automation (Google Analytics, Stripe)
+
+#### Checklist lancement
+- **`business/CHECKLIST-PRE-LANCEMENT.md`** : 53 items à vérifier
+  - 6 sections : Technique, Contenu, Visuels, Tracking, Contacts, Monétisation
+  - 4 tests critiques (parcours utilisateur, multi-device, liens, feedback)
+  - Red flags bloquants
+  - Validation finale 5 questions
+
+#### Growth hacking
+- **`business/GROWTH-HACKING-ENSEIGNANTS.md`** : 15 tactiques spécifiques enseignants
+  - ROI prouvé : Influenceurs (500%), Sherpa ambassadeurs, Facebook parasite
+  - B2B : LinkedIn directeurs, cold emails écoles
+  - Autorité : Webinars, podcasts, presse locale, formations rectorat
+  - International : Afrique francophone (500k enseignants)
+  - Calendrier 30 jours + tracking ROI par tactique
+
+**Budget total** : 0-200€ pour 100 bêta-testeurs en 30 jours
+
 ---
 
 ## 🎯 Vue d'ensemble
